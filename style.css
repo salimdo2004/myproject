@@ -1,11 +1,11 @@
 h1{
-    color: bisque;
+    color: red;
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
 
 }
 body{
-    background-color: black;
+    background-color: rgb(185, 252, 0);
     color: white;
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
